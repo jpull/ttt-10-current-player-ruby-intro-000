@@ -15,3 +15,4 @@ def current_player(board)
   else
     puts "odd"
   end
+end
